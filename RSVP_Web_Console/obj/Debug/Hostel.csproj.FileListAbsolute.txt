@@ -1,0 +1,9 @@
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\Hostel\bin\Hostel.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\Hostel\bin\Hostel.pdb
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\Hostel\obj\Debug\ResolveAssemblyReference.cache
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\Hostel\obj\Debug\Hostel.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\Hostel\obj\Debug\Hostel.pdb
+C:\Demo\Hostel\Hostel\bin\Hostel.dll
+C:\Demo\Hostel\Hostel\bin\Hostel.pdb
+C:\Demo\Hostel\Hostel\obj\Debug\Hostel.dll
+C:\Demo\Hostel\Hostel\obj\Debug\Hostel.pdb

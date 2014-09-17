@@ -1,0 +1,21 @@
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\bin\WcfServiceLibrary.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\bin\WcfServiceLibrary.pdb
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\bin\MiddleTier.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\bin\MiddleTier.pdb
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+C:\Demo\Hostel\WcfServiceLibrary\bin\WcfServiceLibrary.dll
+C:\Demo\Hostel\WcfServiceLibrary\bin\WcfServiceLibrary.pdb
+C:\Demo\Hostel\WcfServiceLibrary\bin\MiddleTier.dll
+C:\Demo\Hostel\WcfServiceLibrary\bin\MiddleTier.pdb
+C:\Demo\Hostel\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Demo\Hostel\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Demo\Hostel\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\bin\WcfServiceLibrary.dll
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\bin\WcfServiceLibrary.pdb
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\bin\MiddleTier.dll
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\bin\MiddleTier.pdb
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Git_Project\RSVP_Tool\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

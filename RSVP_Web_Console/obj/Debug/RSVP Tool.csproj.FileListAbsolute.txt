@@ -1,0 +1,14 @@
+C:\Demo\Hostel\Hostel\bin\Hostel.dll
+C:\Demo\Hostel\Hostel\bin\Hostel.pdb
+C:\Demo\Hostel\Hostel\bin\WcfServiceLibrary.dll
+C:\Demo\Hostel\Hostel\bin\MiddleTier.dll
+C:\Demo\Hostel\Hostel\bin\WcfServiceLibrary.pdb
+C:\Demo\Hostel\Hostel\bin\MiddleTier.pdb
+C:\Demo\Hostel\Hostel\obj\Debug\RSVP Tool.csprojResolveAssemblyReference.cache
+C:\Demo\Hostel\Hostel\obj\Debug\Hostel.dll
+C:\Demo\Hostel\Hostel\obj\Debug\Hostel.pdb
+C:\Documents\RSVP_Tool\Hostel\bin\Hostel.dll
+C:\Documents\RSVP_Tool\Hostel\bin\Hostel.pdb
+C:\Documents\RSVP_Tool\Hostel\obj\Debug\RSVP Tool.csprojResolveAssemblyReference.cache
+C:\Documents\RSVP_Tool\Hostel\obj\Debug\Hostel.dll
+C:\Documents\RSVP_Tool\Hostel\obj\Debug\Hostel.pdb

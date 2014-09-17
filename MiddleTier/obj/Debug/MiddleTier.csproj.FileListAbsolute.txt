@@ -1,0 +1,15 @@
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\MiddleTier\bin\Debug\MiddleTier.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\MiddleTier\bin\Debug\MiddleTier.pdb
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\MiddleTier\obj\Debug\ResolveAssemblyReference.cache
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\MiddleTier\obj\Debug\MiddleTier.dll
+c:\users\siddanna\documents\visual studio 2010\Projects\Hostel\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Demo\Hostel\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Demo\Hostel\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Demo\Hostel\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Demo\Hostel\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Demo\Hostel\MiddleTier\obj\Debug\MiddleTier.csprojResolveAssemblyReference.cache
+C:\Git_Project\RSVP_Tool\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Git_Project\RSVP_Tool\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Git_Project\RSVP_Tool\MiddleTier\obj\Debug\MiddleTier.csprojResolveAssemblyReference.cache
+C:\Git_Project\RSVP_Tool\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Git_Project\RSVP_Tool\MiddleTier\obj\Debug\MiddleTier.pdb
