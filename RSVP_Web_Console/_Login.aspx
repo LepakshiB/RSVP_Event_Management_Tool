@@ -26,7 +26,7 @@
         <p class="submit">
           <asp:Button ID="Button1" runat="server" Text="Login" onclick="Button1_Click" />
           </p><br />
-              <p>Forgot your password? <a href="">Reset Your password. Other wise create new account Please Don't Forgret your password offtenly</a>.</p>
+              <p>Forgot your password? <a href="">Reset Your password. Other wise create new account Please Don't Forgret your password offtenly. testing</a>.</p>
         <p>
         <a href="Registration.aspx" rel="register" class="linkform">You don't have an account yet? Register here</a>
       
